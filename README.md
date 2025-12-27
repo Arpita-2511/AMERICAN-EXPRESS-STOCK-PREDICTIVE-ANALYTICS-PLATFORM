@@ -41,10 +41,11 @@ Streamlit
 Pandas & NumPy
 Matplotlib & Seaborn
 Plotly (Interactive Visuals)
+
+
+
 🎯 Purpose & Applications
 Academic and educational demonstration of financial analytics
 Portfolio project for data analytics and fintech roles
-
 Practical example of time-series analysis and dashboard development
-
 Foundation for future enhancements such as predictive modeling or real-time data integration
