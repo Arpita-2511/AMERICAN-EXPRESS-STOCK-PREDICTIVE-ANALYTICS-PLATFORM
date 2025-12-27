@@ -33,6 +33,8 @@ Decision Support
 Helps users understand stock performance patterns
 Assists in evaluating potential investment strategies
 Encourages data-driven financial analysis
+
+
 🚀 Technologies Used
 Python
 Streamlit
