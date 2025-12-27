@@ -1,0 +1,4 @@
+# AMERICAN-EXPRESS-STOCK-PREDICTIVE-ANALYTICS-PLATFORM
+The American Express Stock Intelligence Platform is an interactive data analytics and visualization project designed to analyze historical stock performance of American Express (AXP) and provide meaningful insights using data analysis, technical indicators, and visual analytics.
+This project leverages Python-based data processing and visualization tools along with a Streamlit-powered web interface to transform raw stock market data into actionable intelligence. The platform enables users to explore trends, identify patterns, and support informed decision-making through intuitive dashboards and dynamic charts.
+The system focuses on making complex financial data easy to interpret, even for users with limited financial or technical backgrounds, while still offering depth for advanced analysis.
